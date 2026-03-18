@@ -31,6 +31,8 @@ Security
 ## What I've done:
 Currently, I've done a project where you can test the strength of your password on a scale from 1-4 with some arbitrary rules. It also incorporates HaveIBeenPwned's API to check whether or not that password has been breached already.
 
+[Password Checker](https://cs395-password-checker.onrender.com/)
+
 ## I'm currently working on:
 An UNO game for one of my courses. It'll have all of the functionality you'd expect from an UNO game with some of my own little twists.
 
