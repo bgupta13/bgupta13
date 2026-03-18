@@ -2,7 +2,7 @@
 
 I am a soon-to-be graduate and I majored Computer Science with an Emphasis on Cybersecurity. I have experience in a plethora of languages and fields as I'll list below.
 
-#Languages
+# Languages
 Python
 C++
 Java
@@ -10,14 +10,14 @@ Unix Scripting
 SQL
 R
 
-#Fields
+# Fields
 IT
 Data Analysis
 Project Planning
 Networking
 Security
 
-#I'm currently working on:
+# I'm currently working on:
 An UNO game for one of my courses. It'll have all of the functionality you'd expect from an UNO game with some of my own little twists.
 
 
