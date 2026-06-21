@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hello
 
-I am a graduate from Western Illinois University and I majored Computer Science with an Emphasis on Cybersecurity. I have experience in a plethora of languages and fields as I'll list below.
+I am a graduate from Western Illinois University and I majored in Computer Science with an Emphasis on Cybersecurity. I have a strong foundation in Cybersecurity and some projects to go along with it. 
 
 ## Languages
 
