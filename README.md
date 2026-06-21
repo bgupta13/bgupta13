@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a soon-to-be graduate and I majored Computer Science with an Emphasis on Cybersecurity. I have experience in a plethora of languages and fields as I'll list below.
+I am a graduate from Western Illinois University and I majored Computer Science with an Emphasis on Cybersecurity. I have experience in a plethora of languages and fields as I'll list below.
 
 ## Languages
 
