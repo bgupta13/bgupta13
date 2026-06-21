@@ -29,7 +29,7 @@ Currently, I've done a project where you can test the strength of your password 
 
 [UNO](uno-djye.onrender.com)
 
-[OWASP TOp 10 Vulnerability Detector](https://github.com/bgupta13/CodeReviewer)
+[OWASP TOP 10 Vulnerability Detector](https://github.com/bgupta13/CodeReviewer)
 
 
 <!--
